@@ -7,5 +7,4 @@
 
 It’s easy to see why Kanban has become an essential project management tool. As a lightweight and [adaptable workflow](https://www.toptal.com/project-managers/digital/digital-transformation-project-manager-guide) method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being [hybridized with other frameworks](https://www.productplan.com/glossary/scrumban/), [scaling to an enterprise level](https://businessmap.io/blog/scaling-kanban-across-an-organization), or even [serving as the bridge](https://www.nimblework.com/blog/waterfall-to-agile-with-kanban/) to take organizations from Waterfall to Agile processes.
 
-![image]
-(https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-c1c5294701185de6bfc2ad3e915e4861.png&width=768)
+![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-c1c5294701185de6bfc2ad3e915e4861.png&width=768)
